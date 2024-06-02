@@ -1,5 +1,5 @@
 # Harnessing-RAG-LLM-Integrated-Vision-for-Precision-Crop-Recommendations
-Computer Vision, LLM, Operation Research, AgriTech, Robotics
+
 <span style="color:blue">Computer Vision</span>, <span style="color:red">LLM</span>, <span style="color:green">Operation Research</span>, <span style="color:orange">AgriTech</span>,<span style="color:Maroon">Robotics</span>
 
 
